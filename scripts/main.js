@@ -1,0 +1,1 @@
+$(function(){"use strict";window.fit($(".bg")[0],$(".bgContainer")[0],{cover:!0,watch:!0,hAlign:fit.RIGHT})});
